@@ -9,7 +9,7 @@ from sklearn.preprocessing import LabelEncoder,StandardScaler,OneHotEncoder
 import pickle
 
 #Load the trained model
-model = tensorflow.keras.load_model('model.h5')
+model = load_model('model.h5')
 
 
 #Load the encoders and scalers
