@@ -1,5 +1,8 @@
 import streamlit as st
 import tensorflow 
+from tensorflow.python.keras.models  import load_model
+
+
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder,StandardScaler,OneHotEncoder
