@@ -3,4 +3,4 @@ tensorflow==2.17.1
 numpy==1.26.3
 pandas==2.2.0
 scikit-learn==1.4.0
-pickle5==0.0.12
+pickle
